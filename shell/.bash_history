@@ -1,1643 +1,3 @@
-sudo pip3 install selenium
-ls
-cd virtEnvs
-ls
-cd test
-ls
-cd bin
-sudo pip3 install selenium
-ls -l
-cd ~/.cache
-ls
-ls -al
-cd pip/
-ls -;a
-ls -la
-ls /home/jordan
-python python.py
-python /home/jordan/python.py
-cd
-cd test
-ls
-cd lib
-cd ..
-ls
-cd selenium/
-ls
-cd web
-cd
-cd test
-ls
-cd lib
-ls
-cd ..
-ls
-cat geckodriver.log 
-cd ..
-ls
-cat python.py 
-python python.py 
-cd test
-mv ~/python.py python.py
-ls
-python python.py 
-cat test.py 
-vim import-test.py
-python import-test.py 
-ls
-pip3 install selenium
-python import-test.py 
-cd
-ls
-deactivate 
-source test/bin/activate
-cd test
-python import-test.py 
-man source
-source --help
-ls
-cd bin
-ls
-cd
-vim test/bin/activate
-deactivate 
-vim test/bin/activate
-ls
-source test/bin/activate
-python test/python.py
-history
-history | grep activate
-ls
-python test/import-test.py 
-cd test
-ls
-cd bin
-ls
-cd
-ls
-cd test
-ls\
-ls
-vim python.py 
-python python.py 
-vim python.py 
-python python.py 
-cd
-ls
-cd /opt
-ls
-cd
-ls
-cd test
-ls
-echo $PATH
-export PATH=$PATH:/opt/geckodriver
-python python.py 
-vim python.py 
-vim
-deactivate 
-ls
-vim
-fg
-man pip3
-fg
-vim
-ls
-python python.py 
-vim ~/.bashrc
-subl ~/.vimrc
-ls ~
-fg
-source ~/.bashrc
-setup-python 
-vim ~/python.py
-ls ~
-ls
-sudo apt install neovim
-vim ~/.bashrc
-source ~/.bashrc
-vim
-setup-python 
-vim
-/usr/bin/vim python.py 
-vim python.py 
-vim
-cd
-ls
-ls -a
-vim .bashrc
-python
-vim .bashrc
-cd test
-ls
-echo $PS1
-vim ~/.bashrc
-source ~/.bashrc
-vim ~/.bashrc
-vim python.py 
-apt list | grep neofetch
-sudo apt install neofetch
-source ~/.bashrc
-deactivate 
-neofetch 
-cd
-cd .config/
-ls
-man ln
-ln -s nvim/init.vim ~/.vimrc
-ln -s ~/.vimrc nvim/init.vim
-mkdir nvim
-ln -s init.vim ~/.vimrc
-ln -s ~/.vimrc init.vim
-ls
-cd nvim
-ls
-cd ..
-ls
-cd nvim~
-ln -s ~/.vimrc init.vim
-ls
-cd ..
-ls
-rm init.vim 
-cd ..
-vim
-vim .vimrc
-sudo apt install unity-tweak-tool 
-unity-tweak-tool &
-sudo apt remove unity-tweak-tool 
-ls
-apt list | grep pywal
-printf "%b" "\033]11;#ff0000\007"
-source ~/.bashrc
-exit
-pip3 install pywal
-apt list | grep imagemagick
-cd Downloads/
-ls
-wal -i anarchist.jpg 
-cd 
-cd .local/
-cd bin
-ls
-cd
-vim .bashrc
-source ~/.bashrc
-echo $PAth
-vim .bashrc
-history | grep export
-source ~/.bashrc
-echo $PATH
-vim .bashrc
-/usr/bin/nvim .bashrc
-/usr/bin/source .bashrc
-ls
-history | grep PATH
-export PATH=$PATH:~/.local/bin
-cd Downloads/
-wal -i anarchist.jpg 
-identify anarchist.jpg 
-ls
-identify Green_Anarchism_Wallpaper_by_anarchoart.jpg 
-wal -i Green_Anarchism_Wallpaper_by_anarchoart.jpg 
-vim
-cd
-vim
-cd Downloads/
-ls
-wal -i syd-wachs-120737.jpg 
-neofetch
-vim
-ls
-cd
-wal -i Downloads/
-cd test
-vim tutor
-vimtutor
-ls
-cd virtEnvs
-ls
-cd test/bin
-ls
-cd ..
-ls
-cd bin
-ls
-cd
-ls
-vim learnSelenium
-vim learnSelenium 
-vim learnSelenium.py
-vim test.py
-vim learnSelenium.py 
-vim learnSelenium.py
-vim learnSelenium.py 
-vim learning.py
-apt search | grep gecko
-apt search gecko
-man apt
-apt list | gecko
-apt list
-apt list | zpspell
-cd
-ls
-ls -a
-cd .local
-ls
-cd lib
-ls
-cd python3.6
-ls
-cd site-packages
-ls
-cd
-ls
-ls -a
-ls
-cd /
-ls
-ls -a
-cd lib
-ls
-cd /
-ls
-cd opt
-ls
-path
-ls
-cd 
-ls -a
-vim .bashrc
-path
-vim .bashrc
-echo $PATH
-ls
-cd /opt
-ls -l
-cat geckodriver
-62;c62;c62;c62;c62;c62;c62;c62;c62;c
-ls
-echo $PATH
-export PATH=$PATH:/opt/geckodriver
-echo $PATH
-mk learnSelenium
-cd virtEnvs/test/bin/activate
-virtEnvs/test/bin/activate
-source virtEnvs/test/bin/activate
-pip3 install selenium
-cd 
-ls
-mv learnSelenium learnSelenium.py
-python learnSelenium.py 
-ls
-python test.py
-python learnSelenium.py
-mv learnSelenium.py  learnSelenium.py
-python learnSelenium.py
-rm learnSelenium.py 
-ls
-rm test.py
-ls
-python learnSelenium.py
-which python
-deactivate
-ls
-cd virtEnvs
-ls
-cd test
-ls
-cd bin
-ls
-source activate
-which python
-cat activate
-cd ..
-cd 
-ls
-cd test
-ls
-cd ..
-ls
-rm -r virtualenvtest
-ls
-rm -r virtEnvs
-ls
-mv test learnSelenium
-ls
-rm learnSelenium.py
-ls
-rm test.html
-rm test.js
-ls
-source learnSelenium/bin/activate
-deactivate
-source learnSelenium/bin/activate\
-ls
-python learning.py
-pip3 install selenium
-python learning.py
-ls
-cd learningSelenium
-cd learnSelenium/lib
-ls -a
-cd python3.6
-ls
-ls -a
-python site.py
-cd site-packages
-ls
-cat selenium
-cd selenium
-ls
-cd webdriver
-ls
-which python
-cd 
-ls
-mv learnSelenium test
-deactivate
-ls
-source test/bin/activate
-which python
-python learning.py
-ls
-cd test/lib
-ls
-cd python3.6
-ls
-cd site-packages
-ls
-pip3 install geckodriver
-deactivate
-cd
-ls
-source test/bin/activate
-ls
-python learning.py
-echo PATH
-echo $PATH
-deactivate
-echo $PATH
-cd /
-echo $PATH
-source test/bin/activate
-echo $PATH
-cd /opt
-mv geckodriver ~/test/bin
-sudo mv geckodriver ~/test/bin
-ls
-cd !
-cd ~
-ls
-cd test/bin
-ls
-cd ~
-python learning.py
-deactivate
-source test/bin/activate
-python learning.py
-vim learning.py
-python learning.py
-vim learning.py
-python learning.py
-vim learning.py 
-vim learning.py
-apt list | grep pycharm
-cd /
-ls
-cd ~
-ls
-cd Downloads
-ls
-mv pycharm-community-2017.3.1 /opt/
-sudo mv pycharm-community-2017.3.1 /opt/
-cd /opt
-ls
-cd pycharm-community-2017.3.1/bin/pycharm.sh
-cd pycharm-community-2017.3.1/bin
-ls
-pycharm.sh
-ls -l
-chmod +x /opt/pycharm-community-2017.3.1/bin/pycharm.sh
-ls -l
-pycharm.sh
-ls -l
-./pycharm.sh
-ls
-cd PycharmProjects/learnSelenium/
-ls
-ls -a
-cd venv
-ls
-cd lib
-ls
-cd python3.7/
-ls
-cd ~
-ls
-man find
-find geckodriver
-cd/
-cd /
-ls
-find geckodriver
-man find
-find / -type f -iname "geckodriver"
-sudo find / -type f -name "geckodriver"
-echo $PATH
-cd /usr/local/bin
-ls
-sudo find / -type f -name "geckodriver"
-sudo find / -type f -name "pycharm"
-cd/
-ls
-cd /
-ls
-ls -a
-cd usr/local
-ls
-cd bin
-ls
-cd ..
-ls
-cd lib
-ls
-cd ..
-ls
-cd ~
-ls -a
-cd .PyCharmCE2017.3/
-ls
-ls config
-ls
-cd config
-ls
-echo $PATH
-cd ~
-ls
-cd test/bin/
-ls
-man cp
-cp geckodriver /usr/local/bin
-sudo cp geckodriver /usr/local/bin
-cd /usr/local/bin
-ls
-ls
-cd /opt/pycharm-community-2017.3.1/bin
-ls
-./pycharm.sh
-apt list | grep firefox
-cd /usr/opt
-/usr
-ls
-cd /usr
-ls
-cd /opt
-ls
-cd ~/Downloads
-ls
-mv firefox /opt
-sudo mv firefox /opt
-cd /opt
-ls
-cd firefox
-ls
-./run-mozilla.sh 
-ls -l
-./browser
-ls browser
-cd ..
-ls
-cd firefox
-.s
-ls
-/firefox
-./firefox
-bluetoothctl
-apt list | grep bluetooth
-apt bluez
-apt list | grep bluez
-sudo apt install bluez
-man bluez
-apt interfaces | grep blue
-snap interfaces | grep blue
-cd /usr/share
-ls
-cd doc/bluez
-ls
-cat README.Debian.gz 
-README.Debian.gz
-gunzip README.Debian.gz 
-sudo gunzip README.Debian.gz 
-ls
-cat README.Debian 
-vim tutor
-vimtutor
-cd /opt/firefox
-ls
-./firefox
-cd ~/Downloads
-ls
-cd /opt
-ls
-cd ~/Downloads
-ls
-mv firefox /opt
-sudo firefox /opt
-sudo mv firefox /opt
-JJemailJJ1226?
-ls /opt 
-hciconfig
-hcitool scan
-bluetoothctl
-cd /usr/opt
-ls
-/usr
-ls
-cd /usr
-ls
-/bin
-ls
-cd /bin
-ls
-cd /usr/opt
-cd /usr
-ls
-cd /opt
-ls
-ls /bin
-cd /bin
-vim FireFoxOld
-ls 
-which foxold
-vim oldfox
-cd ~!
-cd ~
-vim foxold
-sudo mv foxold /bin
-cd /bin
-ls 
-sudo vim foxold
-chmod x /bib/foxold
-ls -l | grep foxold
-chmod +x /bin/foxold
-ls -l | grep foxold
-vim foxold
-cat foxold
-foxold
-cd/opt/firefox/./firefox
-cd/opt/firefox/firefox
-cd /opt/firefox/./firefox
-cd /opt/firefox
-.s
-ls
-./firefox
-cd ..
-ls
-cat firefox
-ls firefox
-cat firefox
-cd firefox
-ls
-cat firefox
-ls
-./firefox
-/opt/firefox/firefox start
-/opt/firefox/firefox
-/bin/foxold
-cd /bin
-ls
-cd /
-ls
-ls -a
-cd ~ 
-ls -a
-vim .bashrc
-foxold
-vim .bashrc
-foxold
-/opt/firefox/firefox
-vim .bashrc
-foxold
-/bin
-/opt
-cd /bin
-ls
-sudo rm foxold
-ls
-cd ~
-ls
-foxold
-cd ~
-ls
-vim .bashrc
-virtualenv
-/.bashrc
-vim .bashrc
-which foxold
-source ~/.bashrc
-foxold
-cd /opt
-ls
-rm -r firefox
-sudo rm -r firefox
-ls
-foxold
-oldfox
-foxold
-cd /opt
-ls
-cd firefox
-ls
-cd ..
-rm -r firefox
-sudo rm -r firefox
-ls
-cd ~/Downloads
-ls
-sudo mv firefox /opt
-cd /opt 
-ls
-foxold
-cd /binb
-cd /bin
-ls
-ls /
-ls /usr
-ls /usr/bin
-ls /usr/bin | grep pycharm
-apt list | grep pycharm
-cd /opt
-ls
-cd ./pycharm-community-2017.3.1/
-ls
-/bin
-ls
-cd ./bin
-ls
-./pycharm.sh
-vim ~/.bashrc
-pwd
-vim /.bashrc
-ls -a
-vim .bashrc
-oppycharm
-source .bashrc
-oppycharm
-opfoxold
-cd /opt/firefox/firefox
-/opt/firefox/firefox
-opfoxold
-cd /opt
-ls
-$PATH
-opfoxold
-sudo apt install awesome
-logout
-pkill xorg
-awesome
-ls\
-ls
-apt list | grep rofi
-apt list | grep rofi | less
-sudo apt install rofi
-rofi &
-rofi
-rofi -show
-rofi -show run
-vim
-cd Downloads/
-wal -i syd-wachs-120737.jpg 
-history | grep wal
-echo $PATH
-cd ~/.local/bin
-ls
-cd ..
-export PATH=$PATH:~/.local/bin
-echo $PATH
-cd ..
-cd Downloads/
-wal -i syd-wachs-120737.jpg 
-neofetch
-ls
-vim .vimrc
-source .bashrc
-fg
-vim
-cd .vim
-mkdir .vim/autload
-mkdir -p .vim/autoload
-cd .vim
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-sudo apt install curl
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-cd autoload/
-ls
-cd
-cd .config/
-ls
-cd nvim
-s
-ls
-mkdir autload
-rm autload/ -r
-mkdir autoload
-ls
-cd autoload/
-ln -s ~/.vim/autoload/plug.vim plug.vim
-ls
-cd
-cd Downloads/
-ls
-wal -i syd-wachs-120737.jpg 
-source ~/.bashrc
-echo $PATH
-wal -i syd-wachs-120737.jpg 
-neofetch
-wal -i banksy_1.jpg 
-wal -it banksy_1.jpg 
-wal -ti banksy_1.jpg 
-wal -i anarchy_1
-wal -i anarchy_1.png
-wal -ti anarchy_1.png
-rm anarchy_1.png 
-cd
-wal -ti Downloads/
-neofetch
-rm ~/Downloads/Green_Anarchism_Wallpaper_by_anarchoart.jpg 
-wal -ti Downloads/
-neofetch
-ls ~/Downloads
-wal -ti Downloads/Che_1.jpg 
-neofetch
-rm ~/Downloads/Che_1.jpg 
-sudo apt remove awesome
-sudo add-apt-repository ppa:aguignard/ppa
-sudo apt-get update
-sudo apt-get install libxcb-xrm-dev
-sudo apt install libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev
-cd /opt
-git clone https://www.github.com/Airblader/i3 i3-gaps
-sudo git clone https://www.github.com/Airblader/i3 i3-gaps
-cd i3-gaps/
-ls
-autoreconf --force --install
-sudo autoreconf --force --install
-LS
-ls
-mkdir -p build && cd build
-sudo mkdir -p build && cd build
-sudo make
-cd ..
-cd build/
-ls
-cd ..
-ls
-make
-cd build
-ls
-ls -a
-ls
-cd ..
-ls
-cd src/
-ls
-vim assignments.c 
-cd ..
-ls
-cd
-ls
-cd /opt
-ls
-cd i3-gaps/
-ls
-cd build
-ls
-cd
-sudo apt install i3
-reboot
-ls
-exit
-xprop
-man i3
-xprop
-ls
-apt list | grep compton
-sudo apt install compton
-vim .config/compton.conf
-compton &
-cd .config/
-vim compton.conf 
-pkill compton
-compton &
-pgrep compton
-sudo apt install rxvt-unicode
-urxvt &
-vim compton.conf 
-pkill compton
-compton
-vim compton.conf 
-pkill compton
-compton &
-vim compton.conf 
-pkill compton
-compton &
-vim compton.conf 
-pkill compton
-compton
-vim compton.conf 
-pkill compton
-compton &
-cd ~/Downloads/
-wal -ti syd-wachs-120737.jpg 
-man i3
-ls
-man i3
-mkdir .i3
-vim .i3/config
-man i3
-pgrep compton
-pkill compton
-compton
-cd
-ls
-cd .i3
-ls
-ls -a
-mkdir .i3
-cd .i3
-ls
-vim config
-rm config
-ls
-man i3
-pgrep x
-pgrep xorg
-pregp xser
-pgrep xer
-pgrep xser
-htop
-sudo apt install htop
-htop
-pgrep compton
-compton &
-vim .config/compton.conf 
-wal -i Downloads/syd-wachs-120737.jpg 
-wal -ti Downloads/syd-wachs-120737.jpg 
-man compton
-pgrep compton
-compton &
-pgrep compton
-vim .xsession
-man i3
-ls
-vim .xsession 
-source .xsession 
-wal -ti Downloads/
-ls
-man i3
-vim .i3/config
-rm .xsession 
-man i3
-vim tempstart
-chmod u+x tempstart
-reboot
-vim .i3/config 
-rm .i3/config 
-reboot
-ls
-./tempstart 
-pgrep compton
-wal -ti Downloads/
-man i3
-reboot
-oppycharm
-man i3
-oppycharm &
-man i3
-oppycharm &
-ls
-man i3
-vim .config/i3/config 
-exit
-vim .config/i3/config 
-pgrep compton
-wal -ti ~/Downloads
-exit
-ls
-vim .config/i3/config 
-exit
-ls
-cd Downloads/
-wal -ti ~/Downloads/
-ls
-reboot
-man i3
-cd ~/Downloads
-ls
-wal 
-wal -i
-man wal
-wal wal banksy_1.jpg
-wal banksy_1.jpg 
-wal -b banksy_1.jpg 
-cd ~
-ls
-cd mc-server
-ls
-./start.bat
-sudo ./start.bat
-vim start.bat
-ls
-man i3
-apt list | grep wine
-sudo apt install wine
-sudo apt install wine-stable 2.0.2-2ubuntu1
-sudo apt install wine
-sudo apt install wine-stable
-wineconsole cmd
-wineconsole cmd &
-ls
-cat start
-./start
-./start &
-ipconfig
-ifconfig
-stop
-ifconfig
-sudo apt install net-tools
-ifconfig
-ls
-cd mc-server/
-ls
-vim server.properties
-ip -4 addr show scope global
-ip route show | grep default
-sudo /var/lib/dpkg/info/ca-certificates-java.postinst configure
-cd /etc/localtime
-/usr/share/zoninfo
-cd /usr/share/zoninfo
-ls
-/usr
-ls
-ls -a
-cd /var
-ls
-/lib/dpkg/info
-/lib
-ls
-ls -a
-cd opt
-cd ..
-cd lib
-ls
-cd dpkg
-ls
-cd info
-ls
-ca-certificates-java.postinst configure
-./ca-certificates-java.postinst configure
-sudo ./ca.certificates-java.postinst configure
-./ sudo ca-certificates-java.postinst
-ls
-vim .bashrc
-s
-ls
-cd mc-server
-ls
-cd ..
-vim .bashrc
-startMC 
-vim .bashrc
-~/mc-server/start
-cd mc-server
-ls
-start
-./start
-start
-./start
-sudo /var/lib/dpkg/info/ca-certificates-java.postinst configure
-ls
-cat eula.tx
-cat eula.txt
-cat banned-ips.json 
-cd Libraries
-cat Libraries
-cd libraries/
-ls
-cd ..
-cd mc-server/
-ls
-vim server.properties
-cat vim server.properties
-./start
-ls
-vim server.properties 
-ip address
-sudo apt install nmap
-ls
-cat start
-echo $PATH
-./start
-vim server.properties 
-./start
-exit
-ls
-echo .
-echo '.'
-echo ~
-vim .bashrc
-startMC
-vim .bashrc
-source .bashrc
-startMC
-ls
-cd libraries/
-ls
-ls .
-ls -r .
-cd net
-ls
-cd minecraft
-ls
-cd launchwrapper/
-ls
-cd 1.12/
-ls
-vim launchwrapper-1.12.jar 
-cd ~/mc-server/
-ls
-cd logs/
-ls
-less latest.log 
-cd ..
-ls
-vim usercache.json 
-mv usercache.json usercache.json.bk
-startMC
-sudo update-ca-certificates =r
-sudo update-ca-certificates -r
-man update-ca-certificates
-sudo update-ca-certificates -f
-startMC
-sudo adduser minecraft
-startMC
-stop
-reboot
-ls /var/lib/dpkg/info/ca-certificates-java.postinst
-/var/lib/dpkg/info/ca-certificates-java.postinst --help
-sudo /var/lib/dpkg/info/ca-certificates-java.postinst --help
-vim /var/lib/dpkg/info/ca-certificates-java.post
-vim /var/lib/dpkg/info/ca-certificates-java.postinst 
-sudo /var/lib/dpkg/info/ca-certificates-java.postinst 
-sudo /var/lib/dpkg/info/ca-certificates-java.postinst configure
-ping google.com
-ls
-ls -a
-cd .config/
-ls
-cd i3
-ls
-vim config 
-reboot
-startMC
-sudo userdel jj
-sudo userdel minecraft
-man i3
-cd ~ 
-ls _a
-ls -a
-.config
-ls
-cd .config
-ls
-cd i3
-ls
-vim config
-ls
-cd ~
-vim
-reboot
-oppycharm
-rebooot
-quit
-reboot
-man i3
-man vim
-oppycharm &
-man vim
-vimtutor
-cd PycharmProjects/learnSelenium/venv/lib/python3.7/site-packages/selenium
-ls
-cd webdriver
-ls
-vim __init__.py 
-ls
-cd firefox
-ls
-vim webdriver.py
-ls
-cat __init__.py 
-cd ..
-ls
-vim __init__.py 
-ls -a
-cd ..
-ls
-ls -a
-cd __pycache__/
-ls
-ls -a
-vim __init
-vim __init__.cpython-37.pyc 
-cd ..
-ls
-vim __init__.py 
-ls
-cd webdriver
-ls
-vim __init__.py 
-ls 
-cd firefox/
-ls
-vim __init__.py 
-ls
-cd ..
-ls
-vim __init__.py 
-ls
-oppycharm
-man selenium
-pydoc selenium
-pydoc inspect
-oppycharm &
-reboot
-oppycharm &
-reboot
-ls
-cd PycharmProjects/
-ls
-cd learnSelenium/
-ls
-python selTest.py 
-oppycharm &
-shutdown
-shutdown -c
-quit
-cd
-ls
-shutdown
-oppycharm $
-shutdown
-oppycharm &
-apt list grep | redshift
-sudo apt install redshift
-man redshift
-reboot
-man redshift
-redshift
-oppycharm &
-shutdown
-oppycharm &
-reboot
-apt list | grep lastpass
-sudo apt install lastpass
-sudo apt install lastpass-cli 
-man lastpass
-lastpass &
-man lastpass-cli
-exit
-cd 
-ls
-ls -a
-cd ..
-ls
-cd ..
-ls
-cd bin
-ls
-sudo apt list --installed
-cd downloads
-cd Downloads/
-ls
-cd /
-ls
-cd usr
-ls
-cd bin
-ls
-ls | grep last
-cd ..
-ls
-ls -a
-ls
-cd lib
-ls
-cd firefox
-ls
-cd browser
-ls
-cd chrome
-ls
-cd /
-ls
-cd usr
-ls
-/bin
-ls
-cd bin
-ls
-cd ~
-pwd
-cd /
-ls
-cd home
-cd ~
-unity-control-center
-man i3
-cd ..
-ls
-cd bin
-ls
-sudo apt install lastpass-cli 
-ls -a
-cd ~
-ls
-ls -a
-cd .local
-lks
-ls
-cd bin
-ls
-cd ~
-ls
-cd Downloads/
-ls
-install_lastpass.sh
-./install_lastpass.sh 
-cd /
-ls
-cd opt
-ls
-cd /
-ls
-cd bin
-kls
-ls
-cd ~
-ls
-cat install_lastpass.sh 
-cd ~
-man i3
-i3 -c configfile
-man i3
-gnome-control-center
-man i3
-alsamixer
-apt list | grep installed
-apt list | grep installed | pulseaudio
-sudo apt install pavucontrol
-pavuinstall
-man i3
-ls
-cd .config
-ls
-cd i3
-ls
-vim config
-ipconfig
-ifconfig
-ls
-cd mc-server/
-ls
-cd ..
-ls
-ls -0a
-ls -a
-vim .bashrc
-startMC
-reboot
-oppycharm &
-redshift
-reboot
-oppycharm &
-reboot
-oppycharm & 
-shutdown
-oppycharm &
-reboot
-redshift &
-ooppycharm &
-oppycharm & 
-shutdown
-oppycharm &
-reboot
-oppycharm &
-redshift &
-shutdown
-oppycharm &
-redshift &
-reboot
-man i3
-oppycharm
-shutdown
-oppycharm & 
-apt list | grep openoffice
-sudo apt install openoffice
-sudo apt install openoffice.org-hyphenation
-openoffice
-man openoffice
-cd ..
-cd ~
-ls
-ls -a
-cd .bin
-cd /
-ls
-cd bin
-ls
-cd ..
-ls
-cd usr
-ls
-cd bin
-ls
-ls grep | open
-ls | grep open
-ls | grep office
-loffice
-exit
-redshift &
-soffice
-apt list | grep gimp
-sudo apt install gimp
-gimp
-cd /.mozilla
-ls
-cd /
-ls
-ls -a
-ls opt
-cd opt
-ls
-cd firefox
-ls
-cd /
-ls
-cd usr
-ls
-cd bin
-ls | grep firefox
-cd firefox
-cd ~
-ls
-ls -a
-cd .mozilla
-ls
-cd firefox
-ls
-cat profiles.ini
-cd /
-ls
-cd ~/.mozilla
-cd firefox
-ls
-pwd
-cd 7cylccj4.default/
-ls
-cat logins
-cat logins.json 
-ls
-apt list | grep spotify
-snap install spotify
-sudo snap install spotify
-s
-ls
-cd snap
-ls
-cd spotifty
-cd spotify/
-ls
-cd 5
-ls
-ls -a
-cd .cache
-ls
-cd ..
-ls
-ls -a
-rm -r .cache
-ls -a
-rm -r .config
-ls -a
-cd /opt
-ls
-cd ~
-ls
-ls -a
-ls .config
-ls ~
-cd /
-ls
-cd lib
-ls
-cd /
-ls
-find / -d f -spotify ""
---help
-find --help
-find / d f spotify ""
-man find
-pavucontrol
-ls
-cd PycharmProjects/
-ls
-cd learnSelen
-cd learnSelenium/
-ls
-rm rubric_responses.py
-ls
-rm testing.py
-rm course_functions.py 
-rm ideaplace.py 
-ls
-cat PostMKT235.py 
-rm PostMKT235.py 
-ls
-cat post_bus311.py
-ls
-cat index.py
-ls 
-cat post_bus311_rubric_responses.json 
-rm post_bus311_rubric_responses.json 
-ls
-cat uni_course_info 
-rm uni_course_info
-cat uni_functions
-cat uni_functions.py 
-ls
-rm uni_functions.py 
-ls
-reboot
-cd PycharmProjects/
-ls
-cd learnSelenium/
-ls
-rm data.json
-rm data.txt
-rm rubric_strings.json
-rm testing.py
-s
-ls
-cd PycharmProjects/learnSelenium/
-ls
-mv index.py oldindex.py
-ls
-oppycharm &
-shutdown
-ls -a
-cd .mozilla
-ls
-cd firefox
-ls
-pwd
-oppycharm &
-shutdown
-reboot
-sudo apt install chrome
-apt list | grep chrome
-reboot
-shutdown
-oppycharm
-reboot
-cd Downloads/
-ls
-man i3
-oppycharm
-reboot
-apt list | grep google
-apt list | grep organizer
-sudo apt install korganizer
-apt list | grep evolution
-sudo apt install evolution
-sudo apt-get --purge autoremove korganizer
-oppycharm
-reboot
-alsamixer &
-pkill alsamixer 
-alasmixer
-alsamixer 
-exit
-reboot
-aplay -l output
-speaker-test --channels 2 --rate 40000 --device hw:1,1
-speaker-test --channels 2 --rate 40000 --device hw:1,3
-speaker-test --channels 2 --rate 40000 --device hw:1,7
-speaker-test --channels 2 --rate 40000 --device hw:1,0
-speaker-test --channels 2 --rate 40000 --device hw:1,8
-speaker-test --channels 2 --rate 48000 --device hw:1,3
-ls
-cd Documents/
-ls
-reboot
-cd Downloads
-ls
-cd ..
-ls
-cd Documents/
-ls
-cat General\ Resume\ 01-19.pdf
-shutdown
-reboot
-ls -a
-cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
-ls -a
-cd .dropbox-dist/
-ls
-dropboxd
-./dropboxd
-cd Documents/
-ls
-open General\ Resume\ 01-19.
-reboot
-oppycharnm
-oppycharm
-shutdown
-sudo dpkg-reconfigure tzdata
-date
-sleep
-shutdown
-reboot
-reboot'
-reboot
-xit
-q
-exit
-'
-reboot
-oppycharm
-ls
-cd PycharmProjects/
-ls
-cd learnSelenium/
-ls
-rm responses_database
-rm oldindex.py
-reboot
-shutdown
-cd PycharmProjects/learnSelenium/
-ls
-rm new_file.py 
-ls
-rm pack.py 
-rm responses_database 
-history
-shutdown
-oppycharm
-ls
-cd PycharmProjects/learnSelenium/
-ls
-mkdir uni_code
-ls
-cd uni_code/
-mkdir post
-mkdir snhu
-mkdir baker
-ls
-cd post
-mkdir bus311
-mkdir mkt235
-ls
-cd ..
-ls
-cd ..
-ls
-mv post_bus311.py uni_code/post/bus311/
-shutdown
-cd PycharmProjects/
-ls
-cd learnSelenium/
-ls
-cd uni_code/
-ls
-cd post
-ls
-cd bus311/
-ls
-mv post_bus311.py ~/PycharmProjects/learnSelenium/
-cd ~/PycharmProjects/learnSelenium/
-ls
-oppycharm
-opycharm &
-vim .bashrc
-apt list | grep pycharm
-apt list | grep charm
-exit
-ls
-exit
-oppycharm &
-ls
-cd /usr/bin
 man ln
 vim ~/.bashrc
 ln -s /opt/pycharm-community-2017.3.1/bin/pycharm.sh pycharm
@@ -1998,3 +358,1643 @@ ping google.com
 exit
 ssh cse
 exit
+sudo apt-get install stow
+ls
+ls -a
+cd .ssh
+ls
+cat id_rsa.pub | xclip
+sudo apt install xclip
+cat id_rsa.pub | xclip
+xclip -sel clipboard -o
+xclip -sel selection -o
+man xclip~
+xclip -o
+cat id_rsa.pub | xclip -sel clipboard
+cd
+ls
+mkdir dotfiles
+rm -r dotfiles
+git clone git@github.com:jsturtz/dotfiles.git
+ls
+ls -a
+mkdir dotfiles/vim
+mv .vim* dotfiles/vim
+cd dotfiles/vim
+ls
+ls -a
+cd .vim
+ls
+cd
+ls
+ls -a
+vim
+cd dotfiles/
+ls
+cd vim
+ls
+ls -a
+cd .vim
+ls
+cd
+cd dotfiles/
+ls
+stow vim
+cd
+ls -a
+ls -al
+ls
+ls -a
+mkdir dotfiles/shell
+mv .bash* dotfiles/shell
+ls
+ls -a
+cd .config/
+ls
+cd nvim
+ls
+vim init.vim 
+vim
+ls
+cd ..
+ls
+cd i3
+ls
+vim config 
+cd
+mkdir dotfiles/i3
+mkdir dotfiles/i3/.config/i3 -p
+mv .config/i3/config dotfiles/i3/.config/i3/
+ls
+cd dotfiles/
+ls
+cd i3
+ls
+ls -a
+cd .config/
+ls
+cd i3/
+ls
+cd ~/dotfiles/
+ls
+stow i3 shell
+cd
+ls
+cd .config/
+ls
+cd i3
+ls
+ls -l
+cd ../..
+ls
+ls -a
+vim .zshrc
+mv .z* dotfiles/shell/
+ls
+cd dotfiles/
+ls
+man stow
+stow -R shell
+ls
+cd
+ls
+ls -a
+ls
+cd dotfiles/
+ls
+git status
+git add i3 shell/ vim/
+git status
+git commit -m "Initial dotfiles"
+git status
+git push
+cd Documents/OSUFiles/
+ls
+cd CS_225
+ls
+cd week1
+ls
+vim hw1_1.tex
+ssh -t cse
+ssh cse
+scp cse:week2/smallSort.cpp
+scp cse:week2/smallSort.cpp Documents/OSUFiles/CS_165/week2
+cd Documents/OSUFiles/CS_165/week2
+ls
+vim smallSort.cpp
+ssh
+ssh cse
+ls
+scp cse:week2/minmax.cpp ./
+ls
+vim minmax.cpp
+scp cse:week2/fileAdder.cpp ./
+ls
+vim fileAdder.cpp
+ssh
+ssh cse
+scp cse:week2/fileAdder.cpp ./
+ls
+vim fileAdder.cpp
+scp cse:week2/numGuess.cpp ./
+ls 
+vim numGuess.cpp
+scp cse:week2/fallDistance.cpp ./
+vim fallDistance.cpp
+g++ fallDistance.cpp -o fallDistance
+./fallDistance
+vim fallDistance
+vim fallDistance.cpp
+g++ fallDistance.cpp -o fallDistance
+./fallDistance
+vim fallDistance.cpp
+g++ fallDistance.cpp -o fallDistance
+./fallDistance
+vim fallDistance.cpp
+scp cse:week2/smallSort.cpp ./
+ls
+scp cse:week2/hailstone.cpp ./
+vim hailstone.cpp 
+vim 2areflection.tex
+ls
+vim 2areflection.tex 
+ls
+cd Documents/OSUFiles/CS_225/week1
+ls
+vim hw_1.tex
+vim hw1_1.tex 
+cd Documents/OSUFiles/CS_225/
+ls
+mkdir week2
+cd week2
+ls
+vim Assign2.1.tex
+ls
+shutdown
+shutdown -c
+restart
+reboot
+cd Documents/OSUFiles/CS_225/
+ls
+cd week2
+ls
+cd ..
+cd CS_165/
+ls
+cd week2
+ls
+vim fallDistance.cpp
+g++ fallDistance.cpp
+vim fallDistance.cpp
+g++ fallDistance.cpp
+a.out
+./ a.out
+./a.out
+vim fallDistance.cpp
+vim smallSort.cpp
+g++ smallSort.cpp 
+vim smallSort.cpp
+:wq
+g++ smallSort.cpp 
+:wq
+vim smallSort.cpp
+g++ smallSort.cpp 
+vim smallSort.cpp
+g++ smallSort.cpp 
+./a.out
+vim smallSort.cpp
+g++ smallSort.cpp
+:wq
+vim smallSort.cpp
+g++ smallSort.cpp
+vim smallSort.cpp
+g++ smallSort.cpp
+./a.out
+vim smallSort.cpp
+vim hailstone.cpp 
+man i3
+cd Documents/OSUFiles/CS_225/
+cd week2
+ls
+vim Assign2.1.tex
+ls
+vim Assign2.2.tex
+ls
+cd ..
+cd week1
+ls
+vim hw1_1.tex
+cd ..
+cd week2
+ls
+vim Assign2.1.tex
+vim Assign2.2.tex
+cd ..
+cd week1
+ls
+vim hw1_1.tex
+cd ..
+cd week2
+ls
+vim Assign2.2.tex 
+vim Assign2.tek
+vim Assign2.tex
+ls
+vim Assign2.2.tex
+ls 
+vim Assign2.1tex
+vim Assign2.1.tex
+vim Assign2.2.tex
+vim test.tex
+vim Assign2.1.tex 
+vim Assign2.2.tex
+vim Assign2.1.tex
+vim Assign2.2.tex
+ls
+Assign.2.2.tex
+vim Assign2.2.tex 
+reboot
+shutdown
+reboot
+exit
+ssh cse
+cd Documents/OSUFiles/CS_165/
+cd week3
+vim Box.cpp
+ls
+vim Team.cpp
+vim Box.cpp
+vim test.cpp
+vim Taxicab.hpp
+vim Taxicab.cpp
+vim Taxicab.hpp 
+vim Taxicab.cpp 
+vim Taxicab.cpp
+vim Taxicab.cpp 
+ssh cse
+scp cse:/week3/Box.cpp ./
+scp cse:/nfs/stak/users/sturtzj/week3/Box.cpp ./
+ls
+scp cse:/nfs/stak/users/sturtzj/week3/Box.hpp ./
+mv Box.cpp Documents/OSUFiles/week3
+mv Box.hpp Documents/OSUFiles/week3
+cd Documents/OSUFiles/
+ls
+cd week3
+ls
+scp cse:/nfs/stak/users/sturtzj/week3/Box.hpp ./CS_165/week3
+scp cse:/nfs/stak/users/sturtzj/week3/Box.cpp ./CS_165/week3
+ls
+rm week3
+ls
+cd CS_165/
+ls
+vim week3
+mv week3 Box.cpp
+ls
+mkdir week3
+ls
+scp cse:/nfs/stak/users/sturtzj/week3/Box.hpp ./CS_165/week3
+ls
+scp cse:/nfs/stak/users/sturtzj/week3/Box.hpp ./week3
+ls
+mv Box.cpp ./week3
+ls
+cd week3
+ls
+ssh cse
+scp cse:/week3/Taxicab.cpp ./
+ls
+scp cse:/nfs/stak/users/sturtzj/week3/Taxicab.cpp  ./
+ls
+scp cse:/nfs/stak/users/sturtzj/week3/Taxicab.hpp ./
+ls
+vim Taxicab.cpp
+vim Taxicab.hpp
+ssh cse
+vim .vim/templates
+vim .vim/templates/template.tex 
+cd Documents/OSUFiles/CS_165/
+ls
+cd ..
+cd CS_225/
+ls
+cd week3
+ls
+quiz1.tex
+vim quiz1.tex
+ls 
+vim assign3_1.tex 
+ls
+cd ..
+cd week2
+ls
+vim Assign2.1.tex
+ls
+cd ..
+cd week3
+ls
+rm quiz1.tex 
+vim quiz1.tex
+ls
+vim quiz1.tex 
+vim test.cpp
+gpp test.cpp
+g++ test.cpp
+a.out
+./a.out
+vim test.cpp
+g++ test.cpp
+./a.out
+exit
+vim
+cd Documents/OSUFiles/CS_225/
+ls
+cd week3
+ls
+vim assign3_1.tex
+cp assign3_1.tex assign3_2.tex
+vim assign3_2.tex
+reboot
+cd Downloads/
+ls
+mv Discrete-Mathematics-with-Applications-4th-Edition CS_125_book
+ls
+mv Discrete-Mathematics-with-Applications-4th-Edition.pdf bookCS125
+mv bookCS125 cd ../Documents/OSUFiles//CS_125
+mv bookCS125 cd ../Documents/OSUFiles/CS_225/
+ls
+mv Discrete-Mathematics-with-Applications-4th-Edition\ \(1\).pdf bookCS225
+ls
+mv bookCS225 ../Documents/OSUFiles/CS_225/
+ls
+cd ../Documents/OSUFiles/CS_225/
+ls
+rm bookCS125
+ls
+mv bookCS225.pdf
+mv bookCS225 bookCS225.pfd
+mv bookCS225.pfd bookCS225.pdf
+ls
+zathura bookCS225.pdf &
+ls
+cd week3
+ls
+vim assign3_2.tex
+exit
+vim
+exit
+vim
+exit
+cd -
+man find
+exit
+ls
+exit
+ls
+cd Pictures/
+ls
+exit
+ls
+exit
+ls
+cd Pictures/
+ls
+cd Pictures/
+ls
+cat marioBanksy.htm
+gsettings get org.gnome.desktop.background picture-uri 'file://~/Pictures/marioBanksy.htm'
+gsettings get org.gnome.desktop.background picture-uri 'file://home/jordan/Pictures/marioBanksy.htm'
+gsettings get org.gnome.desktop.background picture-uri
+gsettings set org.gnome.desktop.background picture-uri file:///home/jordan/Pictures/marioBanksy.htm
+ls
+cd Pictures/
+ls
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/jordan/Pictures/marioBanksy.htm;
+
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/jordan/Pictures/marioBanksy.htm'
+cd Documents/OSUFiles/CS_165/week3
+ls
+./testNotes 
+./testNotes
+vim
+cd Documents/OSUFiles/CS_225/
+ls
+cd week3/
+ls
+vim assign3_2.tex
+vim assign3_2.tex 
+cd Documents/OSUFiles/CS_165/
+ls
+cd week3
+ls
+vim testNotes.cpp
+g++ testNotes.cpp 
+vim testNotes.cpp 
+g++ testNotes.cpp 
+./a.out
+vim testNotes.cpp
+g++ testNotes.cpp 
+./a.out
+vim testNotes.cpp 
+g++ testNotes.cpp 
+./a.out
+vim testNotes.cpp 
+vim testNotes.cpp
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd OSUFiles/
+ls
+cd CS_225/
+ls
+ls ~
+ls /Down
+ls ~/Downloads/
+mv ~/Downloads/Starting-Out-with-C-Early-Objects-8th-Edition- ../CS_165/
+ls ~/Downloads/
+mv ~/Downloads/Starting-Out-with-C-Early-Objects-8th-Edition-.pdf ../CS_165/
+cd ..
+cd CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf 
+shutdown
+cd Documents/OSUFiles/CS_225/
+ls
+cd week1
+ls
+cd ..
+cd week2
+ls
+vim test.tex
+cd Documents/
+ls
+cd OSUFiles/
+cd CS_225/
+ls
+cd week3
+ls
+vim assign3_1.tex 
+vim assign3_2.tex 
+cd Documents/OSUFiles/CS_2
+cd Documents/OSUFiles/CS_225/
+ls
+cd quizzes
+ls
+zathura quiz2.pdf 
+cd Documents/OSUFiles/
+ls
+cd CS_2
+cd CS_225/
+ls
+cd week3
+ls
+vim quiz1.tex
+cp quiz1.tex quiz2.tex
+ls
+mkdir quizzes
+mv mkdir ~/Documents/OSUFiles/CS_225/
+cd ..
+ls
+cd ..
+ls
+cd CS_225/
+ls
+mv ./week3/quizzes ./
+ls
+cd week3
+ls
+mv q* ../quizzes/
+ls
+cd ..
+ls
+cd quizzes/
+ls
+vim quiz2.tex
+cd Documents/OSUFiles/CS_165/
+ls
+cd mkdir week4
+ls
+mkdir week4
+ls
+cd week4
+ls
+findMedian.cpp
+vim findMedian.cpp
+shutdown
+ls
+cd Documents/OSUFiles/CS_165/
+ls
+cd week4
+ls
+vim findMedian.cpp
+ls
+make findMedian.cpp
+ls
+g++ -o findMedian findMedian.cpp
+vim findMedian.cpp 
+scp findMedian.cpp cse:/nfs/stak/users/sturtzj/
+cse
+ssh:cse
+ssh cse
+cd Documents/OSUFiles/CS_165/
+ls
+cd week3
+ls
+vim Taxicab.cpp
+ls
+vim 
+cd ../week2
+ls
+vim fallDistance.cpp
+ls
+sleep
+cd Documents/OSUFiles/CS_165/
+ls
+cc week4
+cd week4
+ls
+vim findMedian.cpp
+g++ findMedian.cpp
+vim findMedian.cpp
+vim Person.hpp
+ls
+cd ..
+ls
+cd week3
+ls
+cp Player.hpp Person.hpp
+rm ../week4/Person.hpp
+mv Person.hpp ../week4
+ls
+cp Player.cpp Person.cpp
+mv Person.cpp ../week4
+ls
+cd ../week4
+ls
+vim Person.hpp
+ls
+vim stdDev.cpp
+ls
+vim Person.hpp
+g++ stdDev.cpp Person.cpp -0 stdDev
+ls
+g++ stdDev.cpp Person.cpp -o stdDev
+ls
+./stdDev
+vim stdDev.cpp
+g++ stdDev.cpp Person.cpp -o stdDev
+./stdDev
+vim stdDev.cpp
+g++ stdDev.cpp Person.cpp -o stdDev
+./stdDev
+vim stdDev.cpp
+scp stdDev.cpp cse:/nfs/stak/users/sturtzj/
+scp Person.* cse:/nfs/stak/users/sturtzj/
+ssh cse
+ls
+vim stdDev
+vim stdDev.cp
+vim stdDev.cpp 
+ls
+cd ..
+cd week2
+ls
+cp smallSort.cpp ../week4/smallSort2.cpp
+cd ..
+cd week4
+ls
+vim smallSort2.cpp
+cd Documents/
+ls
+cd OSUFiles/
+ls
+cd CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf 
+shutdown
+cd Documents/OSUFiles/CS_165/
+ls
+cd week4
+ls
+cp smallSort2.cpp transformArray.cpp
+vim transformArray.cpp 
+cd Documents/OSUFiles/CS_165/
+ls
+cd week4
+ls
+vim smallSort2.cpp
+cd Documents/OSUFiles/CS_165/ls
+ls
+cd Documents/OSUFiles/CS_165
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf &
+ls
+cd week4/
+ls
+./transformArray
+man malloc
+./transformArray
+latex moralRelativism.tex
+vim moralRelativism.tex
+ls
+cd Documents/OSUFiles/CS_225/
+ls
+cd week3
+ls
+vim assign3_1.tex 
+mkdir ~/Philosophy
+cp assign3_1.tex ~/Philosophy/
+cd ~/Philosophy/
+ls
+cd ..
+ls
+rm moralR*
+ls
+cd Philosophy/
+ls
+vim assign3_1.tex
+ls
+mv assign3_1.tex philosophyNotes.tex
+ls
+rm assign*
+ls
+vim philosophyNotes.tex 
+ls
+vim philosophyNotes.tex 
+cd ..
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+ls
+mkdir week4
+ls
+cd week4
+ls
+cd ..
+ls
+cd week3
+ls
+cd ..
+ls
+cd week4
+ls
+ls ../week3
+cp ../week3/assign3_2.tex assign4_1.tex
+ls
+vim assign4_1.tex 
+ls
+vim assign4_1.tex
+shutdown
+sudo apt-get install compton
+git clone https://github.com/asturtz2/dotfiles
+man git clone
+git clone https://github.com/asturtz2/dotfiles alex-dotfiles
+cd alex-dotfiles/
+ls
+cd compton/
+ls
+ls -a
+mkdir ~/dotfiles/compton
+cp .config/ ~/dotfiles/compton/
+ls
+mkdir ~/dotfiles/compton/.config
+ls
+cd .config/
+cp compton.conf ~/dotfiles/compton/.config/
+ls
+cd
+cd dotfiles/
+stow compton
+compton &
+pkill compton 
+cd
+mv .config/compton.conf .config/compton.conf.bk
+cd dotfiles/
+stow compton/
+cd
+compton &
+ls
+cd Pictures/
+ls
+sudo apt-get install feh
+;s
+ls
+rm marioBanksy.htm
+rm S*
+ls
+wal -i marioBanksy.jpg 
+wal -i banksyDreams.jpg 
+wal -i marioBanksy.jpg 
+wal -i rageAgainstTheMachine.htm 
+wal -i marioBanksy.jpg 
+ls
+rm rageAgainstTheMachine.htm 
+wal -i rageAgainstTheMachine.jpg 
+wal -i marioBanksy.jpg 
+pgrep compton
+cd Documents/OSUFiles/CS_225/
+ls
+cd week4
+ls
+vim assign4_1.tex 
+cd ..
+ls
+cd week2
+ls
+vim assign2.1.te
+vim assign2.1.tex
+cd ../week4/
+ls
+cp assign4_1.tex assign4_2.tex
+vim assign4_2.tex
+vim assign4_2.tex 
+xprop
+pkill compton 
+compton &
+exit
+which dmenu_run 
+vim /usr/bin/dmenu_run 
+exit
+ls
+mkdir wallpapers/workspace-1 -p
+mkdir wallpapers/workspace-2
+mkdir wallpapers/workspace-3
+cp Pictures/marioBanksy.jpg wallpapers/workspace-1/
+cp Pictures/anarchoSyndFlag.jpg wallpapers/workspace-2/
+cp Pictures/rageAgainstTheMachine.jpg wallpapers/workspace-3/
+exit
+workspace 2
+exit
+ls
+vim .config/i3/config 
+exit
+ls
+mkdir scripts
+ls
+mv .config/i3/workspace-wrapper scripts
+vim .bashrc
+vim .profile
+ls
+reboot
+man i3
+cd Pictures/
+ls
+wal -i anarchoSyndFlag.jpg 
+cd ..
+compton
+ls
+cd Pictures/
+ls
+wal -i marioBanksy.jpg 
+man i3
+cd
+ls
+cd .i3/
+ls
+ls -a
+cd
+ls
+cd .config/
+cd i3/
+ls
+vim config
+vim .config/compton.conf
+wall 
+wal
+history | grep wal
+wal -i Pictures/marioBanksy.jpg 
+vim
+vim .profile 
+ls
+cd .local/bin
+ls
+cd
+ls
+vim .profile 
+exit
+ls
+reboot
+ls
+which bash
+exit
+urxvt -c "echo test"
+urxvt
+urxvt -c "vim"
+man urxvt
+urxvt -e "echo test"
+urxvt -e "vim"
+urxvt -e "bash -c 'echo test'"
+urxvt -e "bash"
+man bash
+bash -c 'echo test'
+urxvt -e 'bash -c 'echo test''
+urxvt -e 'bash -c 'echo test'; bash'
+exit
+vim scripts/workspace-wrapper 
+chmod u+x scripts/workspace-wrapper 
+vim scripts/workspace-wrapper 
+ls
+vim scripts/workspace-wrapper 
+cd scripts/
+workspace-wrapper 
+workspace-wrapper 1
+shutdown
+ls
+cd Pictures/
+ls
+cd ..
+ls
+cd Pictures/
+ls
+cd ..
+cd Documents/OSUFiles/CS_225/
+ls
+cd quizzes/
+ls
+ls
+cd Documents/OSUFiles/CS_225/
+ls
+vim quizzes
+cd quizzes/
+ls
+cp quiz2.tex quiz3.tex
+ls
+vim quiz3.tex 
+shutdown
+cd Documents/OSUFiles/CS_165/
+ls
+mkdir week5
+ls
+cd week5
+ls
+cd ..
+ls
+cd week4
+ls
+cp Person* ../week5
+ls
+cd ../week5
+ls
+vim personSearch.cpp
+ls
+ls ../week4
+cp ../week4/stdDev.cpp ./
+ls
+mv stdDev.cpp personSearch.cpp
+ls
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -0 personSearch
+ls
+g++ personSearch.cpp 
+vim personSearch.cpp 
+cd Documents/OSUFiles/
+ls
+cd CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf &
+shutdown
+cd Documents/OSUFiles/CS_165/
+ls
+cd week5
+ls
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp 
+g++ personSearch.cpp Person.cpp -o personSearch
+./personSearch 
+vim personSearch.cpp
+g++ personSearch.cpp Person.cpp -o personSearch
+./personSearch 
+vim personSearch.cpp
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch
+vim personSearch.cpp
+g++ personSearch.cpp Person.cpp -o personSearch
+vim personSearch.cpp
+g++ personSearch.cpp Person.cpp -o personSearch
+./personSearch 
+vim personSearch.cpp
+g++ personSearch.cpp Person.cpp -o personSearch
+./personSearch 
+vim personSearch.cpp
+scp personSearch.cpp cse:/nfs/stak/users/sturtzj/
+cse
+ssh cse
+ls 
+scp P* cse:/nfs/stak/users/sturtzj/week5
+ssh cse
+ls
+vim personSearch.cpp
+g++ personSearch.cpp Person.cpp -o personSearch
+./personSearch 
+vim personSearch.cpp
+ls
+cp personSearch.cpp boxSort.cpp
+ls
+vim boxSort.cpp 
+ls ..week4
+ls
+ls ../week3
+mv ../week3/B* ./
+ls
+vim boxSort.cpp
+g++ boxSort.cpp Box.cpp
+ls
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+ls
+./a.out
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+./a.out
+vim Box.cpp
+ls
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp
+./a.out
+cd Documents/OSUFiles/CS_165/
+cd ../CS_225/
+ls
+cd ..
+ls
+cd ..
+ls
+cd OSUFiles/
+ls
+cd CS_225/
+ls
+zathura bookCS225.pdf &
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+cd Documents/OSUFiles/CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf &
+ls
+cd week5
+ls
+cp boxSort.cpp stringSort.cpp
+vim stringSort.cpp
+vim boxSort.cpp
+g++ boxSort.cpp Box.cpp
+ls
+vim stringSort.cpp 
+g++ stringSort.cpp 
+:vim stringSort.cpp 
+vim stringSort.cpp 
+g1
+g!
+g++ stringSort.cpp 
+vim stringSort.cpp 
+g++ stringSort.cpp 
+vim stringSort.cpp 
+g++ stringSort.cpp 
+vim stringSort.cpp 
+g++ stringSort.cpp 
+vim stringSort.cpp 
+fg
+cd Documents/OSUFiles/CS_165/
+cd week43
+cd week4
+ls
+cd ../week5
+ls
+vim boxSort.cpp 
+g++ boxSort.cpp Box.cpp -o boxSort
+ls
+./boxSort
+vim boxSort.cpp
+g++ boxSort.cpp Box.cpp -o boxSort
+vim boxSort.cpp
+ls
+vim stringSort.cpp 
+g++ stringSort.cpp
+vim stringSort.cpp
+g++ stringSort.cpp
+vim stringSort.cpp 
+g++ stringSort.cpp
+./a.out
+vim stringSort.cpp
+ls
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+ls week4
+lks
+ls
+cp ./week4/assign4_2.tex ./week5
+ls
+mkdir week5
+mv week5 assign5_1.tex
+mkdir week5
+mv assign5_1.tex week5
+cd week5
+ls
+vim assign5_1.tex 
+shutdown
+help gdb
+man gdb
+vim
+cd Documents/OSUFiles/CS_225/
+ls
+vim test.cpp
+ls
+g++ test.cpp -o test -g
+gdb test
+sudo apt get install rofi
+sudo apt-get install rofi
+rofi -show window
+ls
+cd Documents/OSUFiles/CS_2
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+cd Documents/OSUFiles/CS_225/
+ls
+cd week5
+ls
+vim assign5_1.tex 
+cp assign5_1.tex assign5_2.tex
+vim assign5_2.tex 
+shutdown
+ls
+cd Downloads/
+ls
+mv \[Jon_Lee_Anderson\]_Che_Guevara_A_Revolutionary_Li\(b-ok.xyz\).pdf cheGuevaraArevLife.pdf
+ls
+zathura cheGuevaraArevLife.pdf 
+ls
+cd Documents/OSUFiles/CS_225/
+ls
+cd quizzes/
+ls
+cp quiz3.tek quiz4.tek
+ls
+cp quiz3.tek quiz4.tek
+ls
+cp quiz3.tex quiz4.tex
+ls
+vim quiz4.tex
+sudo apt-get install pulseaudio
+man pulseaudio
+pulseaudio --start
+pulseaudio man
+man pulseaudio
+reboot
+shutdown
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf 
+man gdb
+exit
+shutdown
+cd Documents/OSUFiles/CS_165/
+ls
+mkdir week6
+ls
+cd week6
+ls
+cd ..
+ls
+cd week5
+ls
+cp personSearch.cpp ../week6
+ls
+cd ../week6
+ls
+mv personSearch.cpp summer.cpp
+ls
+vim summer.cpp 
+g++ summer.cpp 
+vim summer.cpp 
+:g++ summer.cpp 
+g++ summer.cpp 
+vim summer.cpp 
+g++ summer.cpp 
+vim summer.cpp 
+g++ summer.cpp 
+./a.out
+vim summer.cpp 
+cp summer.cpp arrayMax.cpp
+ls
+vim arrayMax.cpp 
+g++ arrayMax.cpp 
+vim arrayMax.cpp 
+g++ arrayMax.cpp 
+vim makefile
+make
+vim makefile 
+make
+vim arrayMax.cpp 
+vim makefile 
+make
+ls
+vim makefile 
+make
+vim makefile 
+vim arrayMax.cpp 
+cp arrayMax.cpp isDecreasing.cpp
+ls
+vim isDecreasing.cpp 
+g++ isDecreasing.cpp 
+./a.out
+vim isDecreasing.cpp 
+g++ isDecreasing.cpp 
+a.out
+./a.out
+vim isDecreasing.cpp 
+g++ isDecreasing.cpp 
+./a.out
+vim isDecreasing.cpp 
+cp isDecreasing.cpp vectorPuzzle.cpp
+ls
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp -ln
+g++ vectorPuzzle.cpp -l
+man g++
+vim vectorPuzzle.cpp 
+man g++
+g++ vectorPuzzle.cpp -l
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+ls
+rm makefile 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp 
+vim vectorPuzzle.cpp 
+g++ vectorPuzzle.cpp -o vectorPuzzle
+ls
+./vectorPuzzle 
+vim vectorPuzzle
+vim vectorPuzzle.cpp
+g++ vectorPuzzle.cpp -g
+gdb vectorPuzzle 
+ls
+man g++
+g++ vectorPuzzle -ggdb
+g++ vectorPuzzle.cpp -ggdb
+gdb vectorPuzzle 
+g++ vectorPuzzle.cpp -ggdb -o vectorPuzzle
+gdb vectorPuzzle 
+g++ vectorPuzzle.cpp -ggdb -o vectorPuzzle
+./vectorPuzzle 
+strace ./vectorPuzzle 
+gdb vectorPuzzle 
+g++ vectorPuzzle.cpp -ggdb -o vectorPuzzle
+./vectorPuzzle 
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+shutdown
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+cd Documents/OSUFiles/CS_225/
+ls
+ls week5
+mkdir week6
+cp week5/assign5_2.tex week6
+ls
+cd week6
+ls
+mv assign5_2.tex assign6_2.tex
+ls
+vim assign6_2.tex 
+mv assign6_2.tex assign6_1.tex
+ls
+rm assign6_2*
+ls
+vim assign6_1.tex 
+ls Downloads
+ls
+mv ./Downloads/arrayMax\ -\ Yun.cpp groupAssign2
+cd Documents/OSUFiles/CS_225/
+cd week5
+ls
+cd ..
+ls
+cd week6
+ls
+cp assign6_1.tex assign6_2.tex
+vim assign6_2.tex 
+vim assign6_2.tex
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+cd ~
+ls
+cd Documents/
+ls
+vim structure.tex 
+mkdir resumes
+mv structure.tex resumes
+ls
+cd resumes/
+ls
+vim structure.tex 
+cd ..
+ls
+mv cv_3* resumes/
+ls
+cd resumes/
+ls
+vim cv_3.tex 
+ls
+vim structure.tex 
+ls
+rm cv_3.*
+ls
+vim cv_15.tex 
+ls
+vim cv_15.tex 
+ls
+vim cv_15.log 
+ls
+vim cv_15.tex
+cd Documents/OSUFiles/CS_165/
+ls
+cd week6
+ls
+cp arrayMax.cpp sturtzArrayMax.cpp
+ls
+\q
+cd Documents/OSUFiles/CS_165
+ls
+cd week2
+ls
+cp 2agroupPart.tex 6agroupPart.tex
+mv 6agroupPart.tex ~/Documents/OSUFiles/CS_165/week6
+ls
+cd ../week6
+ls
+vim 6agroupPart.tex 
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+ls
+mv Downloads/arrayMax.cpp ./
+ls
+mv arrayMax.cpp chengMax.cpp
+ls
+vim chengMax.cpp 
+mv Downloads/devoe_arrayMax.cpp ./
+mv Downloads/boettchc_arrayMax.cpp ./
+ls
+mkdir groupAssign2
+mv devo groupAssign2/
+mv devoe_arrayMax.cpp groupAssign2/
+mv chengMax.cpp groupAssign2/
+cd Documents/OSUFiles/CS_165/
+mv week6
+ls
+cd week6
+ls
+cp arrayMax.cpp sturtzArrayMax.cpp
+mv sturtzArrayMax.cpp ~/groupAssign2/
+ls
+cd ~/groupAssign2/
+ls
+cd ..
+ls
+mv boettchc_arrayMax.cpp groupAssign2/
+ls
+cd groupAssign2/
+ls
+vim sturtzArrayMax.cpp 
+cd groupAssign2/
+ls
+g++ arrayMax\ -\ Yun.cpp 
+./a.out
+g++ arrayMax\ -\ Yun.cpp 
+./a.out
+g++ arrayMax\ -\ Yun.cpp 
+./a.out
+g++ arrayMax\ -\ Yun.cpp 
+./a.out
+g++ chengMax.cpp 
+./a.out
+ls
+g++ devoe_arrayMax.cpp 
+./a.out
+g++ devoe_arrayMax.cpp 
+./a.out
+g++ devoe_arrayMax.cpp 
+./a.out
+g++ devoe_arrayMax.cpp 
+./a.out
+reboot
+cd groupAssign2/
+ls
+vim arrayMax\ -\ Yun.cpp 
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf 
+cd groupAssign2/
+ls
+vim sturtzArrayMax.cpp 
+ls
+cd .
+cd ..
+ls
+mv -d groupAssign2 ./Documents/OSUFiles/CS_165/week6
+mv -r groupAssign2/ ./Documents/OSUFiles/CS_165/week6
+ls
+cd Documents/OSUFiles/CS_1
+cd Documents/OSUFiles/CS_165/
+ls
+cd week6
+ls
+mv 6agroupPart.* ~/groupAssign2/
+ls
+cd ~/groupAssign2/
+ls
+vim 6agroupPart.tex 
+reboot
+cd groupAssign2/
+ls
+vim chengMax.cpp 
+vim devoe_arrayMax.cpp 
+ls
+vim arrayMax\ -\ Yun.cpp 
+cd groupAssign2/
+ls
+vim 6agroupPart.tex
+cd Documents/OSUFiles/CS_165/
+ls
+mkdir week7
+ls
+cd week7
+ls
+ls ../week6
+ls ../week5
+cp ../week5/Person.cpp ./
+ls
+cp ../week5/Person.hpp ./
+mv Person.cpp MyInteger.cpp
+mv Person.hpp MyInteger.hpp
+ls
+vim MyInteger.cpp 
+reboot
+cd Documents/OSUFiles/CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf 
+cd Documents/OSUFiles/CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf 
+cd Documents/OSUFiles/CS_165/week6
+ls
+cd ..
+cd week7
+ls
+g++ MyInteger.cpp test.cpp -o myIntTest
+ls
+./myIntTest 
+cd Documents/OSUFiles/CS_1
+cd Documents/OSUFiles/CS_165/
+ls
+cd week5
+ls
+vim Person.hpp
+vim Person.cpp
+cd Documents/OSUFiles/CS_165/
+LS
+ls
+cd week4
+ls
+vim Person.cpp 
+cd Documents/OSUFiles/CS_165/
+ls
+cd week7
+ls
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+g++ averageArea.cpp Shape.cpp Circle.cpp Rectangle.cpp Square.cpp -o averageArea
+./averageArea 
+cd Documents/OSUFiles/CS_165/
+ls
+cd week7
+ls
+vim MyInteger.cpp
+ls
+vim MyInteger.hpp
+vim MyInteger.cpp 
+vim test.cpp 
+ls
+vim MyInteger.cpp
+vim MyInteger.hpp
+cp MyInteger.hpp temp.cpp
+ls
+g++ temp.cpp
+ls
+./a.out
+vim temp.cpp
+ls
+vim MyInteger.cpp
+vim MyInteger.hpp
+vim test.cpp
+ls
+vim test.cpp
+vim MyInteger.cpp 
+g++ test.cpp MyInteger.cpp -o test
+vim MyInteger.hpp 
+g++ test.cpp MyInteger.cpp -o test
+ls
+./tst
+./test
+vim MyInteger.cpp
+ls
+vim MyInteger.hpp 
+ls
+rm temp.cpp 
+ls
+mv test myIntTest
+ls
+rm a.out
+ls
+mv testMyInt.cpp
+mv test.cpp testMyInt.cpp
+ls
+cp MyInteger.cpp Circle.cpp
+cp MyInteger.cpp Shape.cpp
+cp MyInteger.cpp Rectangle.cpp
+cp MyInteger.cpp Square.cpp
+ls
+cp MyInteger.hpp Shape.hpp
+cp MyInteger.hpp Circle.hpp
+cp MyInteger.hpp Rectangle.hpp
+cp MyInteger.hpp Square.hpp
+ls
+vim Shape.hpp
+cp averageArea testMain.cpp
+ls
+mv testMain.cpp testShape.cpp
+ls
+vim averageArea.cpp
+vim Circle.
+vim Circle.cpp 
+vim Shape.hpp
+vim Shape.cpp 
+ls
+vim Circle.cpp
+rm Shape.cpp
+ls
+vim Circle.hpp
+vim Rectangle.hpp
+vim Rectangle.cpp 
+vim Square.hpp
+vim Square.cpp 
+vim averageArea.cpp 
+cd Documents/OSUFiles/CS_
+cd Documents/OSUFiles/CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf &
+shutdown
+cd Documents/OSUFiles/CS_225/
+ls
+zathura bookCS225.pdf &
+ls
+cd week6
+ls
+cp assign6_1.tex assign 7_1.tex
+cp assign6_1.tex ./assign7_1.tex
+ls
+mv assign7_1.tex ..
+cd ..
+ls
+mkdir week7
+mv assign7_1.tex week7
+cd week7
+ls
+vim assign7_1.tex 
+cp assign7_1.tex assign7_2.tex
+vim assign7_2.tex 
+cd ..
+ls
+cd CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf &
+reboot
+cd Documents/OSUFiles/CS_165/
+ls
+cd week7
+ls
+cp Circle.hpp ../Circle.hpp
+cp Circle.cpp ../Circle.cpp
+cd ..
+ls
+mkdir week8
+mv Circle.* week8
+ls
+cd week8
+ls
+vim Circle.hpp
+g++ Circle.cpp circleMain.cpp -o circleTest
+ls
+./circleTest 
+vim circleMain.cpp 
+g++ Circle.cpp circleMain.cpp -o circleTest
+./circleTest 
+vim Circle.hpp
+g++ Circle.cpp circleMain.cpp -o circleTest
+./circleTest 
+vim Circle.cp
+vim Circle.cpp
+g++ Circle.cpp circleMain.cpp -o circleTest
+./circleTest 
+vim circleMain.cpp 
+g++ Circle.cpp circleMain.cpp -o circleTest
+sleep
+shutdown
+cd Documents/OSUFiles/CS_165/
+ls
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf  &
+cd Documents/OSUFiles/CS_165/
+ls
+cd week8
+ls
+vim ValSet.hpp
+ls
+cp Circle.hpp ValSet.hpp
+vim ValSet.hpp 
+cd Documents/OSUFiles/CS_165/
+zathura Starting-Out-with-C-Early-Objects-8th-Edition-.pdf &
+shutdown

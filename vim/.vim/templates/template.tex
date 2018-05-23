@@ -1,8 +1,26 @@
 \documentclass{article}
+\usepackage{tabu}
+\usepackage{etoolbox}
+\usepackage{lplfitch}
+\usepackage{amsmath}
+\usepackage{enumerate}
+\usepackage{enumitem}
+
+\newenvironment{prooftable}
+    {
+        \newcounter{rownumbers}
+        \preto\tabu{\setcounter{rownumbers}{0}}
+        \newcommand\rownumber{\stepcounter{rownumbers}\arabic{rown
+umbers}.}
+        \begin{tabu}{@{\rownumber\space}X[1.1]X[1]}
+    }
+    { \end{tabu} }
+
+\begin{document}
+
 \title{}
 \author{Jordan Sturtz}
 
-\begin{document}
 \maketitle
 
 \end{document}

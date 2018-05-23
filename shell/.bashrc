@@ -123,6 +123,5 @@ alias vim='nvim'
 alias opfoxold='/opt/firefox/firefox'
 alias oppycharm='/opt/pycharm-community-2017.3.1/bin/pycharm.sh'
 alias startMC='cd ~/mc-server;./start'
-PATH=$PATH:~/.local/bin
 
 (wal -r &)
